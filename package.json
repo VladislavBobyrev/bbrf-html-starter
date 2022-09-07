@@ -1,6 +1,6 @@
 {
-  "name": "html-starter",
-  "version": "1.0.0",
+  "name": "bbrf-html-starter",
+  "version": "1.0.1",
   "description": "Используя html-starter, мы создаём основу из лучших практик архитектур для нового проекта.\r ( по умолчанию темная цветовая тема)",
   "main": "index.js",
 
@@ -8,9 +8,18 @@
     "lint": "lint --fix",
     "stylelint": "stylelint --fix"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "html starter",
+    "html стартер",
+    "настроенный html и scss",
+    "настроенный проект с html scss eslint stylelint prettier gitignore readme.md"
+  ],
+  "author": "Vladislav Bobyrev",
   "license": "ISC",
+  "bugs": {
+    "email": "vladislavbobyrev@yandex.ru"
+  },
+  "funding": "https://github.com/VladislavBobyrev",
 
   "devDependencies": {
     "eslint-config-airbnb-base": "^15.0.0",
