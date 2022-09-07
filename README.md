@@ -84,7 +84,7 @@
 ## Для запуска потребуется
 - Этот репозиторий 
  ```
-git clone https://github.com/VladislavBobyrev/html-starter
+git clone https://github.com/VladislavBobyrev/bbrf-html-starter .
 ```
 
 - NPM

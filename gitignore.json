@@ -1,0 +1,3 @@
+// ПЕРЕИМЕНУЙТЕ ФАЙЛ В  -->   .gitignore
+node_modules
+/dist

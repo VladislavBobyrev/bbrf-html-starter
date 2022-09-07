@@ -1,0 +1,11 @@
+// ПЕРЕИМЕНУЙТЕ ФАЙЛ В  -->   .prettierrc
+{
+  "overrides": [
+    {
+      "files": ["**/*.html"],
+      "options": {
+        "printWidth": 150
+      }
+    }
+  ]
+}
