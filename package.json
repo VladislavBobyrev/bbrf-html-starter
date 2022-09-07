@@ -1,0 +1,23 @@
+{
+  "name": "html-starter",
+  "version": "1.0.0",
+  "description": "Используя html-starter, мы создаём основу из лучших практик архитектур для нового проекта.\r ( по умолчанию темная цветовая тема)",
+  "main": "index.js",
+
+  "scripts": {
+    "lint": "lint --fix",
+    "stylelint": "stylelint --fix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^15.0.0",
+    "prettier": "^2.7.1",
+    "stylelint": "^14.11.0",
+    "stylelint-color-format": "^1.1.0",
+    "stylelint-order": "^5.0.0",
+    "stylelint-scss": "^4.3.0"
+  }
+}
